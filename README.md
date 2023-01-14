@@ -1,2 +1,2 @@
 # odin-recipes
-This project will be a basic recipe website, built on what I learned so far about HTML. After finishing this project, I should know enough about HTML in order to move forward wtih my CSS studies
+This project will be a basic recipe website, built on what I've learned so far about HTML. After finishing this project, I should know enough about HTML in order to move forward wtih learning about styling with CSS.
