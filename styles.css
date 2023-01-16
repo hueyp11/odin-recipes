@@ -1,0 +1,20 @@
+#homepage {
+    background-color: rgb(31, 13, 13);
+}
+
+.home {
+    color: rgb(128, 0, 0);
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.pic {
+    width: 400px;
+    height: auto;
+}
+
+button {
+    background-color:rgb(126, 128, 0);
+    font-size: 20px;
+}
