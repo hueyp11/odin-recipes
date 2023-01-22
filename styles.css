@@ -7,7 +7,7 @@
 }
 
 .homelist div {
-    margin: 10px auto;
+    margin: 125px 125px;
     width: 150px;
     border: 5px blue solid;
     text-align: center;
@@ -22,7 +22,7 @@
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     border: 5px red double;
-    margin: 10px auto;
+    margin: 100px auto;
     width: 500px; 
 }
 
