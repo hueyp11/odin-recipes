@@ -1,4 +1,4 @@
-body {
+#homepage {
     background-color: rgb(31, 13, 13);
     display: flex;
     flex-direction: column;
